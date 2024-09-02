@@ -56,10 +56,9 @@ ml-dtypes==0.2.0
 namex==0.0.7
 numpy==1.26.4
 oauthlib==3.2.2
-opencv-python==4.9.0.80
-opencv-python-headless==4.9.0.80
+
 opt-einsum==3.3.0
-p==1.4.0
+
 packaging==23.2
 pandas==2.1.3
 pillow==10.3.0
