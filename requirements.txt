@@ -9,7 +9,7 @@ cachetools==5.3.2
 certifi==2024.2.2
 charset-normalizer==3.3.2
 click==8.1.7
-click-didyoumean==0.3.0
+
 colorama==0.4.6
 cycler==0.12.1
 dm-tree==0.1.8
